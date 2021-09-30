@@ -569,3 +569,9 @@ D. A flag icon with the colleague's name appears where their edit is being made.
 - [x] Use the Insert command and select the Word document.
 - [ ] Select the text and save it as Word document.
 - [ ] Use the Clipboard to copy and paste text into the Word document.
+
+#### Q72. You are inserting several images in a document and need to include descriptive information about them. Numbering the images will also make it easier to reference them in the associated document text. Which command can help you set this up?
+- [ ] Insert footnote
+- [ ] Insert citation
+- [ ] Insert caption
+- [ ] Insert table of figures
